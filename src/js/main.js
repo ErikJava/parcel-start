@@ -1,7 +1,7 @@
 const img = document.createElement('img');
-img.src = '../media/rainbow-sq.webp';
+img.src = '../media/placeholder.jpg';
 
-const imgUrl = new URL('../media/rainbow-sq.webp', import.meta.url);
+const imgUrl = new URL('../media/placeholder.jpg', import.meta.url);
 
 console.log(import.meta);
 
